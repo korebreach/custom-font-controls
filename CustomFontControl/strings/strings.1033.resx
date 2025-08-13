@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="CustomFontControl_Display_Key" xml:space="preserve">
+    <value>Custom Font</value>
+  </data>
+  <data name="CustomFontControl_Desc_Key" xml:space="preserve">
+    <value>Use external fonts in your app</value>
+  </data>
+<data name="Text_Display_Key" xml:space="preserve">
+    <value>Text</value>
+  </data>
+  <data name="Text_Desc_Key" xml:space="preserve">
+    <value>The text you want to display</value>
+  </data>
+  <data name="FontFamily_Display_Key" xml:space="preserve">
+    <value>Font Family</value>
+  </data>
+  <data name="FontFamily_Desc_Key" xml:space="preserve">
+    <value>The name of the font family, such as Roboto</value>
+  </data>
+  <data name="FontProvider_Display_Key" xml:space="preserve">
+    <value>Font Provider</value>
+  </data>
+  <data name="FontProvider_Desc_Key" xml:space="preserve">
+    <value>The source of your font, Google or CDN</value>
+  </data>
+  <data name="CDNUrl_Display_Key" xml:space="preserve">
+    <value>CDN URL</value>
+  </data>
+  <data name="CDNUrl_Desc_Key" xml:space="preserve">
+    <value>If using a CDN, the address of the CDN</value>
+  </data>
+  <data name="FontSize_Display_Key" xml:space="preserve">
+    <value>Font Size</value>
+  </data>
+  <data name="FontSize_Desc_Key" xml:space="preserve">
+    <value>The size of the font</value>
+  </data>
+  <data name="FontWeight_Display_Key" xml:space="preserve">
+    <value>Font Weight</value>
+  </data>
+  <data name="FontWeight_Desc_Key" xml:space="preserve">
+    <value>The font weight you want to display</value>
+  </data>
+  <data name="TextAlign_Display_Key" xml:space="preserve">
+    <value>Text Alignment</value>
+  </data>
+  <data name="TextAlign_Desc_Key" xml:space="preserve">
+    <value>How you want to align the text</value>
+  </data>
+  <data name="TextColor_Display_Key" xml:space="preserve">
+    <value>Text Color</value>
+  </data>
+  <data name="TextColor_Desc_Key" xml:space="preserve">
+    <value>The color for the text</value>
+  </data>
+
+</root>
