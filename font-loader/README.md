@@ -5,14 +5,14 @@ This file (font-loader.ts) is a module that you can use in your own PCF projects
 
 The font-loader exports a class called "CustomFontControl" and expects the parameters:
 
-Text (the text you want to display)
-FontFamily (the name of the font family from google fonts or CDN)
-FontProvider ("google" or "CDN")
-CDNUrl (the URL to your CDN if you are using this option)
-FontSize
-FontWeight
-TextAlign
-TextColor (expressed as a hex code, such as #000000, or as a standard color name)
+⦁	Text (the text you want to display)
+⦁	FontFamily (the name of the font family from google fonts or CDN)
+⦁	FontProvider ("google" or "CDN")
+⦁	CDNUrl (the URL to your CDN if you are using this option)
+⦁	FontSize
+⦁	FontWeight
+⦁	TextAlign
+⦁	TextColor (expressed as a hex code, such as #000000, or as a standard color name)
 
 See FontDemoControl for an example of using the font-loader module at RUNTIME, supplying parameters inside the running app.
 See CustomFontControl for an example of using the font-loader module at DESIGNTIME, supplying parameters in the maker portal.
