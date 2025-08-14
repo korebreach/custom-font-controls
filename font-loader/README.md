@@ -15,6 +15,7 @@ The font-loader exports a class called "CustomFontControl" and expects the param
 ⦁	TextColor (expressed as a hex code, such as #000000, or as a standard color name)
 
 See FontDemoControl for an example of using the font-loader module at RUNTIME, supplying parameters inside the running app.
+
 See CustomFontControl for an example of using the font-loader module at DESIGNTIME, supplying parameters in the maker portal.
 
 If you want a plug-and-play PCF control that you can use to replace the TEXT or LABEL controls whenever you need text with a custom font, import the "external_font_control_1_1_managed.zip" file into PowerApps.  If you want to customize it further, use the unmanaged version.
